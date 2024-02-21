@@ -1,0 +1,4 @@
+we can also see device responsiveness in our inspect element
+if we remove style from our inspect in webpage it will remove all the css
+If we open terminal in a folder and if we press "code ."  it will open vs code in our folder
+
